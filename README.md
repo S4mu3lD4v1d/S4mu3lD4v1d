@@ -1,3 +1,5 @@
+![KindPath banner](assets/banner.png)
+
 # Sam — KindPath Collective
 
 Co-founder @ **KindPath Collective**. Building tools for ecological + social regeneration, systems literacy, and measurable wellbeing.  
