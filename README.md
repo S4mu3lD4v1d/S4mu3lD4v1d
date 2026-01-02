@@ -17,4 +17,8 @@ Blending ancient knowledge with emerging tech. Australia.
 - Respect for ancient knowledge + modern evidence
 
 ## Collaborate
-Best place to start is **Issues** or **Discussions** on the relevant repo.
+- Use **Discussions** for questions, proposals, critique, and open-ended conversation:
+  https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
+- Use **Issues** for trackable work items (bugs, tasks, specific change requests)
+- Use **Pull Requests** for edits and improvements (small and evidence-led)
+
