@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sam — KindPath Collective
 
-<!--
-**S4mu3lD4v1d/S4mu3lD4v1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-founder @ **KindPath Collective**. Building tools for ecological + social regeneration, systems literacy, and measurable wellbeing.  
+Blending ancient knowledge with emerging tech. Australia.
 
-Here are some ideas to get you started:
+## Focus areas
+- **KindEarth**: ecological evaluation + forecasting
+- **Social policy analysis**: drift, syntropy/entropy modelling
+- **Measurement frameworks**: wellbeing, creativity, community strength (quant + qual)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I value
+- Regeneration over extraction
+- Truth without blame cycles
+- Protecting the vulnerable
+- Respect for ancient knowledge + modern evidence
+
+## Collaborate
+Best place to start is **Issues** or **Discussions** on the relevant repo.
